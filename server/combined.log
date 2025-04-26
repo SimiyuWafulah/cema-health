@@ -1,3 +1,79 @@
 {"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T17:46:26.695Z"}
 {"level":"info","message":"Server is running","timestamp":"2025-04-26T17:46:26.801Z"}
 {"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T17:46:26.818Z"}
+{"level":"info","message":"GET /api-docs","timestamp":"2025-04-26T18:15:32.725Z"}
+{"level":"info","message":"GET /api-docs/","timestamp":"2025-04-26T18:15:33.009Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-04-26T18:15:33.928Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-04-26T18:15:33.939Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-04-26T18:15:33.952Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-04-26T18:15:33.964Z"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-04-26T18:15:38.383Z"}
+{"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T18:33:50.942Z"}
+{"level":"info","message":"Server is running","timestamp":"2025-04-26T18:33:51.043Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T18:33:51.050Z"}
+{"level":"info","message":"GET /api-docs/","timestamp":"2025-04-26T18:34:02.358Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-04-26T18:34:02.643Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-04-26T18:34:02.679Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-04-26T18:34:02.694Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-04-26T18:34:02.701Z"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-04-26T18:34:03.792Z"}
+{"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T18:35:06.702Z"}
+{"level":"info","message":"Server is running","timestamp":"2025-04-26T18:35:06.745Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T18:35:06.747Z"}
+{"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T18:37:53.398Z"}
+{"level":"info","message":"Server is running","timestamp":"2025-04-26T18:37:53.442Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T18:37:53.444Z"}
+{"level":"info","message":"GET /api-docs/","timestamp":"2025-04-26T18:38:00.904Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-04-26T18:38:01.092Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-04-26T18:38:01.103Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-04-26T18:38:01.180Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-04-26T18:38:01.221Z"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-04-26T18:38:03.035Z"}
+{"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T18:39:13.028Z"}
+{"level":"info","message":"Server is running","timestamp":"2025-04-26T18:39:13.093Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T18:39:13.097Z"}
+{"level":"info","message":"GET /api-docs/","timestamp":"2025-04-26T18:39:36.918Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-04-26T18:39:37.089Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-04-26T18:39:37.104Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-04-26T18:39:37.138Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-04-26T18:39:37.195Z"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-04-26T18:39:38.250Z"}
+{"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T18:40:31.267Z"}
+{"level":"info","message":"Server is running","timestamp":"2025-04-26T18:40:31.323Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T18:40:31.325Z"}
+{"level":"info","message":"GET /api-docs/","timestamp":"2025-04-26T18:41:32.918Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-04-26T18:41:33.095Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-04-26T18:41:33.129Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-04-26T18:41:33.147Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-04-26T18:41:33.158Z"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-04-26T18:41:33.856Z"}
+{"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T18:59:01.190Z"}
+{"level":"info","message":"Server is running","timestamp":"2025-04-26T18:59:01.285Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T18:59:01.300Z"}
+{"level":"info","message":"GET /api-docs/","timestamp":"2025-04-26T18:59:09.701Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-04-26T18:59:09.860Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-04-26T18:59:09.899Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-04-26T18:59:09.932Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-04-26T18:59:10.028Z"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-04-26T18:59:10.975Z"}
+{"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T19:02:09.076Z"}
+{"level":"info","message":"Server is running","timestamp":"2025-04-26T19:02:09.102Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T19:02:09.105Z"}
+{"level":"info","message":"GET /api-docs/","timestamp":"2025-04-26T19:02:12.280Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-04-26T19:02:12.447Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-04-26T19:02:12.463Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-04-26T19:02:12.499Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-04-26T19:02:12.599Z"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-04-26T19:02:13.551Z"}
+{"level":"info","message":"GET //api/v1/auth","timestamp":"2025-04-26T19:31:03.220Z"}
+{"level":"info","message":"GET //api/v1/users","timestamp":"2025-04-26T19:31:32.862Z"}
+{"level":"info","message":"Database connection established and models synchronized","timestamp":"2025-04-26T19:45:11.800Z"}
+{"level":"info","message":"Server is running","timestamp":"2025-04-26T19:45:11.875Z"}
+{"level":"info","message":"API Documentation: http://localhost:3000/api-docs","timestamp":"2025-04-26T19:45:11.899Z"}
+{"level":"info","message":"POST /CreauteUser","timestamp":"2025-04-26T19:56:30.489Z"}
+{"level":"info","message":"POST /api/v1/users/CreauteUser","timestamp":"2025-04-26T19:59:18.290Z"}
+{"level":"info","message":"POST /api/v1/users/CreateUser","timestamp":"2025-04-26T19:59:37.041Z"}
+{"level":"info","message":"POST /api/v1/users/createUser","timestamp":"2025-04-26T19:59:59.234Z"}
+{"level":"info","message":"POST /api/v1/users/createUser","timestamp":"2025-04-26T20:00:03.531Z"}
+{"level":"info","message":"POST /api/v1/users/createUser","timestamp":"2025-04-26T20:00:03.556Z"}
+{"level":"info","message":"POST /api/v1/users/createUser","timestamp":"2025-04-26T20:01:04.269Z"}
