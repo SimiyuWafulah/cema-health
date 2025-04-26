@@ -77,3 +77,11 @@
 {"level":"info","message":"POST /api/v1/users/createUser","timestamp":"2025-04-26T20:00:03.531Z"}
 {"level":"info","message":"POST /api/v1/users/createUser","timestamp":"2025-04-26T20:00:03.556Z"}
 {"level":"info","message":"POST /api/v1/users/createUser","timestamp":"2025-04-26T20:01:04.269Z"}
+{"level":"info","message":"POST /api/v1/users/","timestamp":"2025-04-26T20:01:57.063Z"}
+{"level":"info","message":"POST /createUser/api/v1/users/","timestamp":"2025-04-26T20:02:26.692Z"}
+{"level":"info","message":"GET /api-docs/","timestamp":"2025-04-26T20:03:44.864Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-04-26T20:03:45.307Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-04-26T20:03:45.324Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-04-26T20:03:45.402Z"}
+{"level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-04-26T20:03:45.420Z"}
+{"level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-04-26T20:03:46.733Z"}
