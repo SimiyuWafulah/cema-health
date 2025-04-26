@@ -1,14 +1,11 @@
-import Client from "./client.model";
-import Program from "./program.model";
+import Patient from "./patient.model.js";
+import Program from "./program.model.js"
+import User from "./users.model.js"
 
-Client.belongsToMany(Program,{through : ClientPrograms})
-Program.belongsToMany(Client,{through: ClientPrograms})
 
-export const syncDatabase = async () => {
-    try {
-        await sequelize.sync({force: true});
-        console.log('Db is synced')
-    } catch (error) {
-        console.log('Db sync failed', error)
-    }
-}
+User.hasMany(Patient,{foreignKey: 'doctor_id'});
+Patient.belongsTo(User, {foreignKey : 'doctor_id'});
+Patient.belongsToMany(Program, {through: 'patient_programs'});
+Program.belongsToMany(Patient, {through : 'patient_programs'});
+
+export {User, Patient, Program}
