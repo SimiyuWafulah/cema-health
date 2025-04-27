@@ -39,7 +39,7 @@ A secure RESTful API for managing healthcare programs, medical professionals, an
 ### 2. Installation
 
 ```bash
-git clone https://github.com/yourusername/health-system-api.git
+git clone https://github.com/SimiyuWafulah/cema-ealth.git
 cd health-system-api
 npm install
 cp .env.example .env
